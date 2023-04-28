@@ -45,7 +45,7 @@ const arr = [
   console.log(element)
   //11
 
-  //Manipular arreglos con el método push o eliminar el último elemento
+  //Manipular arreglos con el método push o añadir en el último elemento
   const arrayPush=[[1,2,3], [4,5,6]];
   arrayPush.push([7,8,9]);
   console.log(arrayPush);
