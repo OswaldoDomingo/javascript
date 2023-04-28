@@ -48,4 +48,8 @@ const{nombr:dato1,apellid:dato2,eda:dato3} = myObjeto;
 console.log(dato1);
 console.log(dato2);
 console.log(dato3);
-
+/*
+Oswaldo
+Domingo
+59
+*/
