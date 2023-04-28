@@ -39,6 +39,11 @@ const{nombr, apellid, eda} = myObjeto;
 console.log(nombr);
 console.log(apellid);
 console.log(eda);
+/*
+Oswaldo
+Domingo
+59
+*/
 
 //También puede utilizar la desestructuración 
 //para asignar valores a variables con nombres diferentes 
